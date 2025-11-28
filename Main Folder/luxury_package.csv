@@ -1,21 +1,21 @@
-name,rating,num_reviews,category,price_level
-Corpo Santo Lisbon Historical Hotel,4.9,4398,Hotel,$$$$
-Santiago De Alfama - Boutique Hotel,4.9,1639,Hotel,$$$$
-Martinhal Lisbon Chiado Family Suites,4.9,662,Hotel,$$$$
-Hotel Avenida Palace,4.8,5028,Hotel,$$$$
-"Hotel Britania Art Deco, a Lisbon Heritage Collection",4.8,3427,Hotel,$$$$
-Seventh Brunch Chiado,4.9,1153,Restaurant,$$ - $$$
-Sto Restaurante & Mercearia,4.9,1006,Restaurant,$$ - $$$
-Antikuario Cafe,4.9,746,Restaurant,$$ - $$$
-Grenache,4.7,271,Restaurant,$$$$
-Sala De Joao Sa,4.7,265,Restaurant,$$$$
-Belcanto,4.6,2248,Restaurant,$$$$
-Alma Henrique Sa Pessoa,4.6,1155,Restaurant,$$$$
-Solar dos Presuntos,4.3,6553,Restaurant,$$$$
-JNcQUOI Avenida,4.3,1285,Restaurant,$$$$
-Eleven Restaurant,4.0,1227,Restaurant,$$$$
-Time Out Market Lisboa,4.3,25050,Attraction,—
-Inside Lisbon Tours,4.8,11966,Attraction,—
-Calouste Gulbenkian Museum,4.6,8709,Attraction,—
-EcoMassage Lisbon,4.9,1553,Attraction,—
-Nosso Tejo,4.8,2734,Attraction,—
+location_id,name,rating,num_reviews,price_level,street1,city,country,postalcode,address_string,category,cuisine,subcategory,tags,luxury_score
+12659702,Corpo Santo Lisbon Historical Hotel,4.9,4398,$$$$,"Largo do Corpo Santo, 25",Lisbon,Portugal,1200-129,"Largo do Corpo Santo, 25, Lisbon 1200-129 Portugal",Hotel,,,,
+7376234,Santiago De Alfama - Boutique Hotel,4.9,1639,$$$$,Rua Santiago 10 14,Lisbon,Portugal,1100-494,"Rua Santiago 10 14, Lisbon 1100-494 Portugal",Hotel,,,,
+10621974,Martinhal Lisbon Chiado Family Suites,4.9,662,$$$$,Rua das Flores 44,Lisbon,Portugal,1200-195,"Rua das Flores 44, Lisbon 1200-195 Portugal",Hotel,,,,
+195643,Hotel Avenida Palace,4.8,5028,$$$$,Rua 1 Dezembro 123,Lisbon,Portugal,1200-359,"Rua 1 Dezembro 123, Lisbon 1200-359 Portugal",Hotel,,,,
+195742,"Hotel Britania Art Deco, a Lisbon Heritage Collection",4.8,3427,$$$$,Rua Rodrigues Sampaio 17,Lisbon,Portugal,1150-278,"Rua Rodrigues Sampaio 17, Lisbon 1150-278 Portugal",Hotel,,,,
+23808782,Seventh Brunch Chiado,4.9,1153,$$ - $$$,Calcada Do Combro 147,Lisbon,Portugal,1200-452,"Calcada Do Combro 147, Lisbon 1200-452 Portugal",Restaurant,"european, british, portuguese, cafe, international",,,
+23691818,Sto Restaurante & Mercearia,4.9,1006,$$ - $$$,"Rua dos Fanqueiros, 85",Lisbon,Portugal,1100-227,"Rua dos Fanqueiros, 85, Lisbon 1100-227 Portugal",Restaurant,portuguese,,,
+18942434,Antikuario Cafe,4.9,746,$$ - $$$,Rua de Sao Jose 168,Lisbon,Portugal,1150-326,"Rua de Sao Jose 168, Lisbon 1150-326 Portugal",Restaurant,"mediterranean, european, healthy, portuguese",,,
+17443651,Grenache,4.7,271,$$$$,12 patio de dom Fradique,Lisbon,Portugal,1120-624,"12 patio de dom Fradique, Lisbon 1120-624 Portugal",Restaurant,"french, mediterranean, european, international, contemporary",,,
+15227438,Sala De Joao Sa,4.7,265,$$$$,Rua dos Bacalhoeiros 103,Lisbon,Portugal,1100-074,"Rua dos Bacalhoeiros 103, Lisbon 1100-074 Portugal",Restaurant,"mediterranean, european, healthy, portuguese",,,
+2628518,Belcanto,4.6,2248,$$$$,Rua Serpa Pinto 10A,Lisbon,Portugal,1200-410,"Rua Serpa Pinto 10A, Lisbon 1200-410 Portugal",Restaurant,"portuguese, contemporary",,,
+9977670,Alma Henrique Sa Pessoa,4.6,1155,$$$$,Rua Anchieta 15,Lisbon,Portugal,1200-023,"Rua Anchieta 15 Chiado, Lisbon 1200-023 Portugal",Restaurant,"mediterranean, european, portuguese, contemporary",,,
+1058428,Solar dos Presuntos,4.3,6553,$$$$,"Rua das Portas de Sto Antao, 150",Lisbon,Portugal,1150-269,"Rua das Portas de Sto Antao, 150, Lisbon 1150-269 Portugal",Restaurant,"seafood, mediterranean, european, portuguese, soups",,,
+12274149,JNcQUOI Avenida,4.3,1285,$$$$,Avenida Da Liberdade 182-184,Lisbon,Portugal,1250-146,"Avenida Da Liberdade 182-184 Tivoli Forum, Lisbon 1250-146 Portugal",Restaurant,"european, portuguese",,,
+878558,Eleven Restaurant,4.0,1227,$$$$,Rua Marques de Fronteira,Lisbon,Portugal,1070,"Rua Marques de Fronteira Jardim Amália Rodrigues, Lisbon 1070 Portugal",Restaurant,"international, mediterranean, european, portuguese",,,
+3214902,Time Out Market Lisboa,4.3,25050,—,Avenida 24 de Julho,Lisbon,Portugal,1200-479,"Avenida 24 de Julho, Lisbon 1200-479 Portugal",Attraction,,"food_drink, landmarks, attractions, classes, activities","['food_drink', 'landmarks', 'attractions', 'classes', 'activities']",45.95
+1746966,Inside Lisbon Tours,4.8,11966,—,Rua Ivone Silva 6 70ESQ,Lisbon,Portugal,1050-124,"Rua Ivone Silva 6 70ESQ, Lisbon 1050-124 Portugal",Attraction,,"food_drink, sightseeing_tours, activities","['food_drink', 'sightseeing_tours', 'activities']",34.366
+195106,Calouste Gulbenkian Museum,4.6,8709,—,Avenida de Berna 45A,Lisbon,Portugal,1067-001,"Avenida de Berna 45A, Lisbon 1067-001 Portugal",Attraction,,"shopping, museums, attractions","['shopping', 'museums', 'attractions']",26.509
+15518965,EcoMassage Lisbon,4.9,1553,—,Rua aurea 260,Lisbon,Portugal,1100-062,"Rua aurea 260 Praça Rossio, Lisbon 1100-062 Portugal",Attraction,,"wellness_spas, activities","['wellness_spas', 'activities']",26.253
+10807704,Nosso Tejo,4.8,2734,—,,Lisbon,Portugal,1100-278,Lisbon 1100-278 Portugal,Attraction,,"boat_tours_water_sports, outdoor_activities, sightseeing_tours, activities","['boat_tours_water_sports', 'outdoor_activities', 'sightseeing_tours', 'activities']",26.134
